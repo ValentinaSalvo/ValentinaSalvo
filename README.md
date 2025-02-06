@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Just a few of software i work with</h2>
+<h2 align="left">Just a few software I work with</h2>
 
 ###
 
